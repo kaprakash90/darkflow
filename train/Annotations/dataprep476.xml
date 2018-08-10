@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>dataprep476.jpeg</filename>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/cleandoc/Images/dataprep476.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2337</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pageno</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>2046</ymin>
+			<xmax>643</xmax>
+			<ymax>2188</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>dataprep26.jpeg</filename>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/cleandoc/Images/dataprep26.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1656</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noise</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>68</xmax>
+			<ymax>2327</ymax>
+		</bndbox>
+	</object>
+</annotation>
