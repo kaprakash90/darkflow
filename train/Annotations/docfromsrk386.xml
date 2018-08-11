@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>docfromsrk386.jpeg</filename>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/darkflow/train/Annotations/docfromsrk386.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pageno</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>2133</ymin>
+			<xmax>798</xmax>
+			<ymax>2211</ymax>
+		</bndbox>
+	</object>
+</annotation>
