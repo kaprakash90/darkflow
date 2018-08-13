@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>termbatch15.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/darkflow/train/Images/termbatch15.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/termbatch15.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,18 +93,6 @@
 			<ymin>527</ymin>
 			<xmax>391</xmax>
 			<ymax>2018</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>text</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>380</xmin>
-			<ymin>638</ymin>
-			<xmax>1586</xmax>
-			<ymax>2044</ymax>
 		</bndbox>
 	</object>
 </annotation>

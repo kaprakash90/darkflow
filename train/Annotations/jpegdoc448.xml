@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>jpegdoc448.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/darkflow/train/Images/jpegdoc448.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/jpegdoc448.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,18 +81,6 @@
 			<ymin>2121</ymin>
 			<xmax>892</xmax>
 			<ymax>2224</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>text</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>235</xmin>
-			<ymin>621</ymin>
-			<xmax>1449</xmax>
-			<ymax>1989</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>kwbatch172.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/darkflow/train/Images/kwbatch172.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/kwbatch172.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -117,18 +117,6 @@
 			<ymin>2152</ymin>
 			<xmax>990</xmax>
 			<ymax>2281</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>text</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>302</xmin>
-			<ymin>558</ymin>
-			<xmax>1433</xmax>
-			<ymax>1212</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>lerbatch17.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/darkflow/train/Images/lerbatch17.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/lerbatch17.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,18 +81,6 @@
 			<ymin>587</ymin>
 			<xmax>1220</xmax>
 			<ymax>815</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>text</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>446</xmin>
-			<ymin>807</ymin>
-			<xmax>1363</xmax>
-			<ymax>2038</ymax>
 		</bndbox>
 	</object>
 </annotation>
