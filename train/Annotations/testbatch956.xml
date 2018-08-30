@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>testbatch956.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/testbatch956.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/testbatch956.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,18 +45,6 @@
 			<ymin>2023</ymin>
 			<xmax>1515</xmax>
 			<ymax>2111</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noise</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>392</xmin>
-			<ymin>903</ymin>
-			<xmax>512</xmax>
-			<ymax>1763</ymax>
 		</bndbox>
 	</object>
 </annotation>

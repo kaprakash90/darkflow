@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>dataprep179.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/cleandoc/Images/dataprep179.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/dataprep179.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -11,18 +11,6 @@
 		<depth>1</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>noise</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>300</xmin>
-			<ymin>1072</ymin>
-			<xmax>446</xmax>
-			<ymax>2004</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>tag</name>
 		<pose>Unspecified</pose>
@@ -48,15 +36,27 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>tag</name>
+		<name>typetag</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>349</xmin>
-			<ymin>681</ymin>
-			<xmax>1400</xmax>
-			<ymax>855</ymax>
+			<ymin>698</ymin>
+			<xmax>586</xmax>
+			<ymax>764</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>typetag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>957</xmin>
+			<ymin>709</ymin>
+			<xmax>1309</xmax>
+			<ymax>769</ymax>
 		</bndbox>
 	</object>
 </annotation>

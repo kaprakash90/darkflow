@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>jpegdoc809.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/jpegdoc809.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/jpegdoc809.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>38</xmin>
 			<ymin>62</ymin>
-			<xmax>389</xmax>
-			<ymax>359</ymax>
+			<xmax>352</xmax>
+			<ymax>310</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1135</xmin>
-			<ymin>139</ymin>
-			<xmax>1518</xmax>
-			<ymax>485</ymax>
+			<xmin>1161</xmin>
+			<ymin>136</ymin>
+			<xmax>1469</xmax>
+			<ymax>468</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1387</xmin>
+			<xmin>1429</xmin>
 			<ymin>476</ymin>
-			<xmax>1507</xmax>
-			<ymax>1150</ymax>
+			<xmax>1464</xmax>
+			<ymax>1153</ymax>
 		</bndbox>
 	</object>
 	<object>

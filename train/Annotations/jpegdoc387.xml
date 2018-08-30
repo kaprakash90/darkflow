@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>jpegdoc387.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/jpegdoc387.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/jpegdoc387.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,18 +45,6 @@
 			<ymin>2201</ymin>
 			<xmax>557</xmax>
 			<ymax>2324</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noise</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1197</xmin>
-			<ymin>1558</ymin>
-			<xmax>1266</xmax>
-			<ymax>1958</ymax>
 		</bndbox>
 	</object>
 	<object>

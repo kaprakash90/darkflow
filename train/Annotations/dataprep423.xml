@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>dataprep423.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/cleandoc/Images/dataprep423.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/dataprep423.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>104</xmin>
-			<ymin>1064</ymin>
-			<xmax>327</xmax>
-			<ymax>1452</ymax>
+			<ymin>1084</ymin>
+			<xmax>292</xmax>
+			<ymax>1341</ymax>
 		</bndbox>
 	</object>
 	<object>

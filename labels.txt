@@ -2,3 +2,4 @@ tag
 seal
 pageno
 noise
+typetag

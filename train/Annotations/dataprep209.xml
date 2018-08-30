@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>dataprep209.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/cleandoc/Images/dataprep209.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/dataprep209.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>35</xmin>
 			<ymin>81</ymin>
-			<xmax>367</xmax>
-			<ymax>364</ymax>
+			<xmax>341</xmax>
+			<ymax>349</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>32</xmin>
 			<ymin>752</ymin>
-			<xmax>372</xmax>
-			<ymax>1069</ymax>
+			<xmax>332</xmax>
+			<ymax>1078</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -42,8 +42,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>118</xmin>
-			<ymin>1238</ymin>
-			<xmax>384</xmax>
+			<ymin>1281</ymin>
+			<xmax>378</xmax>
 			<ymax>1504</ymax>
 		</bndbox>
 	</object>
@@ -57,18 +57,6 @@
 			<ymin>98</ymin>
 			<xmax>1375</xmax>
 			<ymax>392</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>seal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>524</xmin>
-			<ymin>435</ymin>
-			<xmax>1009</xmax>
-			<ymax>578</ymax>
 		</bndbox>
 	</object>
 	<object>

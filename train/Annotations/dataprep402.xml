@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>dataprep402.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/cleandoc/Images/dataprep402.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/dataprep402.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -56,7 +56,7 @@
 			<xmin>319</xmin>
 			<ymin>98</ymin>
 			<xmax>550</xmax>
-			<ymax>381</ymax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,20 +79,8 @@
 		<bndbox>
 			<xmin>693</xmin>
 			<ymin>35</ymin>
-			<xmax>1073</xmax>
-			<ymax>372</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noise</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>950</xmin>
-			<ymin>321</ymin>
-			<xmax>1110</xmax>
-			<ymax>815</ymax>
+			<xmax>1076</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 	<object>

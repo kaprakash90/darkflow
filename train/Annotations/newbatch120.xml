@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>newbatch120.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/newbatch120.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/newbatch120.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>23</xmin>
 			<ymin>58</ymin>
-			<xmax>394</xmax>
-			<ymax>409</ymax>
+			<xmax>340</xmax>
+			<ymax>347</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>951</xmin>
-			<ymin>132</ymin>
-			<xmax>1371</xmax>
-			<ymax>487</ymax>
+			<xmin>1008</xmin>
+			<ymin>175</ymin>
+			<xmax>1308</xmax>
+			<ymax>450</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
+			<xmin>228</xmin>
 			<ymin>775</ymin>
-			<xmax>286</xmax>
-			<ymax>2184</ymax>
+			<xmax>263</xmax>
+			<ymax>2192</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1271</xmin>
+			<xmin>1288</xmin>
 			<ymin>598</ymin>
-			<xmax>1363</xmax>
-			<ymax>2189</ymax>
+			<xmax>1334</xmax>
+			<ymax>2192</ymax>
 		</bndbox>
 	</object>
 </annotation>

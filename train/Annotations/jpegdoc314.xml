@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>jpegdoc314.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/jpegdoc314.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/jpegdoc314.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -43,8 +43,8 @@
 		<bndbox>
 			<xmin>31</xmin>
 			<ymin>61</ymin>
-			<xmax>391</xmax>
-			<ymax>389</ymax>
+			<xmax>346</xmax>
+			<ymax>364</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>968</xmin>
-			<ymin>118</ymin>
-			<xmax>1380</xmax>
-			<ymax>521</ymax>
+			<xmin>997</xmin>
+			<ymin>149</ymin>
+			<xmax>1311</xmax>
+			<ymax>461</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -66,9 +66,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>166</xmin>
-			<ymin>578</ymin>
-			<xmax>723</xmax>
-			<ymax>698</ymax>
+			<ymin>612</ymin>
+			<xmax>703</xmax>
+			<ymax>675</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,22 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>183</xmin>
+			<xmin>223</xmin>
 			<ymin>704</ymin>
-			<xmax>337</xmax>
-			<ymax>2195</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noise</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1188</xmin>
-			<ymin>1589</ymin>
-			<xmax>1263</xmax>
-			<ymax>1947</ymax>
+			<xmax>286</xmax>
+			<ymax>2184</ymax>
 		</bndbox>
 	</object>
 </annotation>

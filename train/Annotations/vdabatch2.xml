@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>vdabatch2.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/vdabatch2.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/vdabatch2.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -105,18 +105,6 @@
 			<ymin>2152</ymin>
 			<xmax>913</xmax>
 			<ymax>2272</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noise</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>145</xmin>
-			<ymin>347</ymin>
-			<xmax>273</xmax>
-			<ymax>1844</ymax>
 		</bndbox>
 	</object>
 	<object>

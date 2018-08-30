@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>newbatch18.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/newbatch18.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/newbatch18.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>31</xmin>
 			<ymin>52</ymin>
-			<xmax>366</xmax>
-			<ymax>421</ymax>
+			<xmax>351</xmax>
+			<ymax>344</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -91,8 +91,8 @@
 		<bndbox>
 			<xmin>986</xmin>
 			<ymin>141</ymin>
-			<xmax>1357</xmax>
-			<ymax>509</ymax>
+			<xmax>1326</xmax>
+			<ymax>458</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>nextbatch45.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/nextbatch45.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/nextbatch45.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>tag</name>
+		<name>typetag</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -57,18 +57,6 @@
 			<ymin>180</ymin>
 			<xmax>1563</xmax>
 			<ymax>274</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>seal</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>14</xmin>
-			<ymin>1154</ymin>
-			<xmax>274</xmax>
-			<ymax>1557</ymax>
 		</bndbox>
 	</object>
 </annotation>

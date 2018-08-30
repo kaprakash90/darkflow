@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>jpegdoc1106.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/jpegdoc1106.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/jpegdoc1106.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>tag</name>
+		<name>typetag</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -48,15 +48,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>seal</name>
+		<name>typetag</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>897</xmin>
-			<ymin>387</ymin>
-			<xmax>1380</xmax>
-			<ymax>561</ymax>
+			<xmin>957</xmin>
+			<ymin>395</ymin>
+			<xmax>1286</xmax>
+			<ymax>478</ymax>
 		</bndbox>
 	</object>
 </annotation>

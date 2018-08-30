@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Images</folder>
 	<filename>jpegdoc760.jpeg</filename>
-	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/sealasroi/Images/jpegdoc760.jpeg</path>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/jpegdoc760.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1204</xmin>
-			<ymin>1935</ymin>
-			<xmax>1621</xmax>
-			<ymax>2292</ymax>
+			<xmin>1235</xmin>
+			<ymin>1949</ymin>
+			<xmax>1581</xmax>
+			<ymax>2287</ymax>
 		</bndbox>
 	</object>
 	<object>

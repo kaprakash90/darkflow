@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>161.jpeg</filename>
+	<path>/Users/arunprakash/Documents/L&amp;D/Tensorflow/annotations/new strategy/Images/161.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>typetag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>868</xmin>
+			<ymin>2209</ymin>
+			<xmax>1517</xmax>
+			<ymax>2301</ymax>
+		</bndbox>
+	</object>
+</annotation>
